@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+main {
+  background-color: #FFF7F4;
+  width: 1440px;
+  height: 316px;
+}
+main h1 {
+  font-family: "Work Sans", sans-serif;
+  font-size: 48px;
+}
